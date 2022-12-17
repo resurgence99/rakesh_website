@@ -1,0 +1,18 @@
+.landing-page {
+  background-image: url(/image-asset.jpeg);
+  height: 100vh;
+  width: 100%;
+}
+.landing-page .col .row .text-middle {
+  margin: 0;
+  margin-left: 0px;
+  padding: 0 0 0 0;
+  position: absolute;
+  top: 50%;
+  color: aliceblue;
+  /* margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); */
+}/*# sourceMappingURL=styles.css.map */
